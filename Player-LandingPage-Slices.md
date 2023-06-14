@@ -19,9 +19,3 @@ Slice - 8
 Slice - 9
 ![Slice 9](https://github.com/the-PrafulDesai/Player-LandingPage/assets/108045971/3a0b4145-2c96-4c00-a155-2b38953c57b8)
 
-# Mobile View
-![Mobile view](https://github.com/the-PrafulDesai/Player-LandingPage/assets/108045971/4b87a454-b724-4726-b0fc-08f85c1955de)
-# Tablet View
-![Tablet View](https://github.com/the-PrafulDesai/Player-LandingPage/assets/108045971/05137c52-8710-492a-a240-7052fab3b44c)
-# Desktop View
-![Player Landing Page](https://github.com/the-PrafulDesai/Player-LandingPage/assets/108045971/cca685e9-831a-4c2c-9472-d0c188f12851)
