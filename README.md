@@ -1,6 +1,6 @@
 # Player-Sports Community Landing Page
 ![Thumbnail](https://github.com/the-PrafulDesai/Player-LandingPage/assets/108045971/7e6f35fa-adc5-4eb2-a48b-0ffbffa23e17)
-Player-Sports Community is an interactive landing page design project created on Figma. This project aims to add fun to life by connecting sports enthusiasts and fostering a vibrant community.
+Player-Sports Community is an interactive landing page design project created on Figma by the-PrafulDesai. This project aims to add fun to life by connecting sports enthusiasts and fostering a vibrant community.
 
 -> Features
 1) Engaging and visually appealing design
